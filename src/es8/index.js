@@ -3,7 +3,7 @@ const data = {
     backend: 'Isabel',
     design: 'Ana',
 };
-// Crea un nuevo arreglo con la informacion del objeto
+// Crea un nuevo arreglo con la informacion de un objeto
 const entries = Object.entries(data);
 console.log(entries);
 console.log(entries.length);
